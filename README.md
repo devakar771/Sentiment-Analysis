@@ -6,7 +6,9 @@
   - Then, we will perform lemmatization on each word,i.e. change the different forms of word into a single item called as lemma. A lemma is a base form of a word. For example,    
     run, running and runs are all forms of same lexeme where run is the lemma. Hence, we are converting all occurrences of same lexeme to it's respective lemma.
   - Return a corpus of processed data.
-*Convert text data to vectors using BOW Model*.
+  
+*Convert text data to vectors using BOW Model*
+
 ## ML MODELS USED
   - SVM
   - RF
